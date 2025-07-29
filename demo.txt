@@ -1,0 +1,2 @@
+# Sample File
+This is a demo file for Git version control.
